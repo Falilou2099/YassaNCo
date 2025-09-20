@@ -53,10 +53,8 @@ export default function Delivery() {
               
               <div className="bg-white rounded-2xl shadow-lg p-8 border border-white/20">
                 <p className="text-yassa-brown font-display font-medium mb-2">Comment commander ?</p>
-                <p className="text-yassa-brown/70 font-body mb-4">
-                  Retrouvez notre foodtruck à l&apos;emplacement et aux horaires suivants
-                </p>
-                <p className="text-yassa-brown/70 font-body">
+                <p className="text-yassa-brown/70 font-body text-sm">
+                  Appelez-nous ou envoyez un message WhatsApp pour passer votre commande. 
                   Nous vous confirmerons l&apos;heure de livraison.
                 </p>
               </div>
