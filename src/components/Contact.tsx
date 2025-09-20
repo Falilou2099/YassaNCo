@@ -69,7 +69,7 @@ export default function Contact() {
 
               <div className="mt-8 p-4 bg-yassa-lightCream rounded-lg border border-yassa-brown/20">
                 <p className="text-sm font-body text-yassa-brown/70">
-                  <strong className="text-yassa-red font-display">Horaires d'appel :</strong> Nous sommes disponibles tous les jours pour prendre vos commandes et répondre à vos questions.
+                  <strong className="text-yassa-red font-display">Horaires d&apos;appel :</strong> Nous sommes disponibles tous les jours pour prendre vos commandes et répondre à vos questions.
                 </p>
               </div>
             </div>
@@ -104,7 +104,7 @@ export default function Contact() {
 
               <div className="mt-6 p-4 bg-yassa-lightCream rounded-lg border border-yassa-brown/20">
                 <p className="text-sm font-body text-yassa-brown/70">
-                  📸 Découvrez nos dernières créations culinaires et suivez l'actualité de notre foodtruck !
+                  📸 Découvrez nos dernières créations culinaires et suivez l&apos;actualité de notre foodtruck !
                 </p>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function Contact() {
                 Commande Express
               </h3>
               <p className="text-white/90 font-body mb-6">
-                Besoin d'une commande rapide ? Contactez-nous directement !
+                Besoin d&apos;une commande rapide ? Contactez-nous directement !
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a

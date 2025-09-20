@@ -183,7 +183,7 @@ export default function Menu() {
               Envie de commander ?
             </h3>
             <p className="text-yassa-brown/70 font-body mb-6">
-              Contactez-nous pour passer votre commande ou pour plus d'informations
+              Contactez-nous pour passer votre commande ou pour plus d&apos;informations
             </p>
             <a
               href="https://wa.me/33667074221"
